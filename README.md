@@ -46,6 +46,8 @@ To prototype the given part model design in 3D Printer.
 7.	Open the file from the USB storage and select the Print option.
 
 ## Output:
+![image](https://github.com/Daniel-christal/Ex.-No.-8.-PROTOTYPE-PART-MODEL-DESIGN-IN-3D-PRINTER/assets/145742847/05f70076-7cb9-46bc-937e-cf7952435a79)
+
 
 ### Name: Daniel C
 ### Register Number: 212223240023
